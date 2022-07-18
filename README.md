@@ -1,5 +1,4 @@
 # course-git
 Repo curso de git
 Author: Luis Enrique Serret Hernandez
-
-#rama ejemplo
+# elimine linea anterior por esta nueva
