@@ -30,7 +30,7 @@ spec:
 
     spec:
 
-    containers: #verificar si esta correcta la indexacion
+    containers: #verificar si esta correcta la indexacion, correr deploy en rancher
 
       - name: nginx
 
